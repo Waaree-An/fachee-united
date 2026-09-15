@@ -1,0 +1,11 @@
+{
+  "name": "Fachee United Hub",
+  "description": "Interactive student reading materials and media repository to store reading info, photos, video links, short videos, and any document formats with study tips sharing.\n\nThanks to AI and Your friend Waaree.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
